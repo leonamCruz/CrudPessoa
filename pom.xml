@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.leonam</groupId>
-	<artifactId>CrudFilmes</artifactId>
+	<artifactId>CrudPessoa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CrudFilmes</name>
 	<description>CrudFilmes</description>

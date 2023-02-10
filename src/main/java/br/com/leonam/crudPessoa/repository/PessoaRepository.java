@@ -1,6 +1,6 @@
-package br.com.leonam.crudfilmes.repository;
+package br.com.leonam.crudPessoa.repository;
 
-import br.com.leonam.crudfilmes.model.entidade.Pessoa;
+import br.com.leonam.crudPessoa.model.entidade.Pessoa;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

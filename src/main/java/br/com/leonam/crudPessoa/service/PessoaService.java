@@ -1,7 +1,7 @@
-package br.com.leonam.crudfilmes.service;
+package br.com.leonam.crudPessoa.service;
 
-import br.com.leonam.crudfilmes.model.entidade.Pessoa;
-import br.com.leonam.crudfilmes.repository.PessoaRepository;
+import br.com.leonam.crudPessoa.model.entidade.Pessoa;
+import br.com.leonam.crudPessoa.repository.PessoaRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.stereotype.Service;
 

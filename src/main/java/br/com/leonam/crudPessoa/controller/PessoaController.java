@@ -1,8 +1,8 @@
-package br.com.leonam.crudfilmes.controller;
+package br.com.leonam.crudPessoa.controller;
 
-import br.com.leonam.crudfilmes.model.dto.PessoaDTO;
-import br.com.leonam.crudfilmes.model.entidade.Pessoa;
-import br.com.leonam.crudfilmes.service.PessoaService;
+import br.com.leonam.crudPessoa.model.dto.PessoaDTO;
+import br.com.leonam.crudPessoa.model.entidade.Pessoa;
+import br.com.leonam.crudPessoa.service.PessoaService;
 import jakarta.validation.Valid;
 import org.springframework.beans.BeanUtils;
 import org.springframework.http.HttpStatus;

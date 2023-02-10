@@ -1,4 +1,4 @@
-package br.com.leonam.crudfilmes.model.dto;
+package br.com.leonam.crudPessoa.model.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;

@@ -1,4 +1,4 @@
-package br.com.leonam.crudfilmes.model.entidade;
+package br.com.leonam.crudPessoa.model.entidade;
 
 import jakarta.persistence.*;
 
